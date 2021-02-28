@@ -1,1 +1,4 @@
 main characters:happysheep, graywolf
+
+story1:
+Graywolf tries to eat happysheep.Happysheep defeats graywolf.
